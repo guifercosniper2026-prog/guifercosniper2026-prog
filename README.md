@@ -1,19 +1,20 @@
-#  Guillermo | Creative Frontend & Strategic Writer
+#  Guillermo | Redactor creativo de frontend y estrategia
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_REMOTE_WORK-32d74b?style=for-the-badge&logo=apple" />
 </p>
 
-### 🌎 Global Vision | Junior Designer & Writer
-I specialize in building **minimalist digital experiences**. My focus is on clean UI design and strategic writing for international audiences.
+### 🌎 Visión Global | Diseñador y Escritor Junior
+Me especializo en la creación de **experiencias digitales minimalistas**. Me centro en el diseño de interfaz de usuario (UI) limpio, redacción estratégica y documentación de procesos para públicos internacionales.
 
 ---
 
-### 🎨 My Ecosystem
-| 🛠 Development | ✍️ Creative Writing | ⚙️ Design Tools |
+### 🎨 Mi ecosistema
+| 🛠 Desarrollo | ✍️ Escritura creativa | ⚙️ Herramientas de diseño |
 | :--- | :--- | :--- |
-| HTML5 / CSS3 / JS | Copywriting (ES/EN) | Figma |
-| Responsive Layouts | Technical Writing | UI/UX Principles |
+| HTML5 / CSS3 / JS | Redacción técnica / **SOP** | Figma |
+| Diseños adaptables | Copywriting (ES/EN) | Principios de UI/UX |
+| Desarrollo Frontend | Estrategia de contenido | Branding Minimalista |
 
 ---
 
